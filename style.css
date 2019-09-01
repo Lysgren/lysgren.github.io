@@ -42,7 +42,7 @@ q::before {
 background-attachment: fixed;
 background-size: cover;
 background-position: 50% 50%;
-background-image: url("images/background.png");
+background-image: url("images/background.jpg");
 padding-bottom: 10%;
 border-radius: 0px;
 height:100%; 
